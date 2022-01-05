@@ -1,6 +1,6 @@
 # Flask Blog Capstone
 
-A more robust blog using Flask and JSON data. Day 59 Python Bootcamp.
+A more robust blog using Flask and JSON data. Days 59-60 Python Bootcamp.
 
 
 ## Usage
